@@ -1,0 +1,1 @@
+# space-engineers-blueprint-editor-vibecoded-prototype

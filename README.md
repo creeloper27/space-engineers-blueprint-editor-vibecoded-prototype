@@ -8,3 +8,10 @@
 
 if opening large bluprints disable this
 <img width="628" height="193" alt="image" src="https://github.com/user-attachments/assets/34c0fef1-bff9-41a2-bf5c-72849f9405ca" />
+
+## Using:
+either download godot to open and run this project
+
+or
+
+get one of the builds in the pre release `Assets` (click on it to expand and see availalbe downloads) https://github.com/creeloper27/space-engineers-blueprint-editor-vibecoded-prototype/releases
